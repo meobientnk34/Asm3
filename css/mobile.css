@@ -78,7 +78,12 @@
   #about {
     background-color: rgba(128, 128, 128, 0.15);
   }
-
+  #about i {
+    font-size: 28px;
+    color: rgba(95, 61, 196, 0.6);
+    padding-left: 24px;
+  }
+  
   #target {
     padding: 96px 24px 24px 24px;
     background: #f1f3f5;
